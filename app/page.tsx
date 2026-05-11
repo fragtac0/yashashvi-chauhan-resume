@@ -36,7 +36,7 @@ const experiences: Experience[] = [
     imageSrc: '/the-four-seasons.jpg',
     alt: 'The Four Seasons',
     label: 'The Four Seasons',
-    portfolioHref: '#',
+    portfolioHref: 'https://docs.google.com/document/d/11OlV9UCnXnacU-HEkwoa8jTTzD543GH0jr9X8nOO6Pk/edit?tab=t.grrqm1xf3nm2',
     description: [
       'Executed an extended social media campaign for Uber Bike for customer outreach.',
       "Managing content strategy for Bar Bank and The Bar Stock Exchange's Instagram.",
@@ -52,7 +52,7 @@ const experiences: Experience[] = [
     imageSrc: '/hacks.jpg',
     alt: 'Hacks',
     label: 'Hacks',
-    portfolioHref: '#',
+    portfolioHref: 'https://docs.google.com/document/d/11OlV9UCnXnacU-HEkwoa8jTTzD543GH0jr9X8nOO6Pk/edit?tab=t.uavahgtds5k2#heading=h.ru9796h269nh',
     description: [
       'Worked on brand briefs to short-form content for campaigns with Peter England, IKEA, and more.',
       'Managed YouTube uploads, SEO, and show marketing for Saregama talent.',
