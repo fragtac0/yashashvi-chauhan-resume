@@ -159,7 +159,7 @@ export default function Page() {
     }
     return Math.max(0, years);
   };
-  const yearsExperience = 3; // getYearsSince(experienceStartDate);
+  const yearsExperience: number = 3; // getYearsSince(experienceStartDate);
 
   const fadeAudio = (targetVolume: number, durationMs: number, onComplete?: () => void) => {
     const audio = audioRef.current;
