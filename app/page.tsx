@@ -429,7 +429,6 @@ export default function Page() {
                         }}
                       />
                     ) : null}
-                    <span className="thumb-label">{experience.label}</span>
                     {experience.portfolioHref ? (
                       <div className="portfolio-hover">
                         <p>Work Portfolio</p>
